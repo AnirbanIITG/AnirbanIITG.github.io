@@ -27,8 +27,8 @@
 	<header role="banner">
 		<div class="container_16">
 				<hgroup>
-					<h1>Sheldon COOPER</h1>
-					<h2>Physicien surdoué - Geek qualifié</h2>
+					<h1>Anirban Lekharu</h1>
+					<h2>PHD, Dept. of Computer Science and Engineering, IIT Guwahati</h2>
 				</hgroup>
 
 				<figure>
