@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Sheldon COOPER - Physicien surdoué et Geek qualifié</title>
+<title>Anirban Lekharu</title>
 
 <!--[if lt IE 9]>
 <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -37,7 +37,7 @@
 		</div>
 	</header>
 	
-	<!-- Contact -->
+	<!-- Contact-->
 	<section class="contactform clearfix">
 		<div class="container_16">
 			<h3>Contactez-moi</h3>
