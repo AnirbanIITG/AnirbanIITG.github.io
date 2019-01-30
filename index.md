@@ -69,7 +69,7 @@
 				<h3>Research Interest</h3>
 				<ul class="barres" style="list-style-type:disc;">
 					<li>Multimedia Streaming Technologies</li>
-					<li>5G Network Services like Network Slicing and Cachin</li>
+					<li>5G Network Services like Slicing and Cachin</li>
 					<li>Machine Learning</li>
 					<li>Computer Vision</li>
 					<li>Multimedia Security</li>
