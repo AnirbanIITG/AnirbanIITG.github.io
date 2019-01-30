@@ -27,7 +27,7 @@
 		<div class="container_16">
 				<hgroup>
 					<h1>Anirban Lekharu</h1>
-					<h2><font color = "#3399ff">PHD, Dept. of Computer Science and Engineering, IIT Guwahati</font></h2>
+					<h2><font color = "#3399ff">PHD,Computer Science and Engineering, IIT Guwahati</font></h2>
 				</hgroup>
 
 				<figure>
