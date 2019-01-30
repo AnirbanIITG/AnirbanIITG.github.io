@@ -78,7 +78,7 @@
 		</div>
 		
 			<!-- Expériences -->
-			<div class="grid_16 experiences">
+			<!--<div class="grid_16 experiences">
 				<h3>Expériences</h3>
 				<ul>
 					<li>
@@ -99,9 +99,9 @@ nature de votre travail.</p>
 					</li>
 				</ul>
 			</div>
-		
+		-->
 			<!-- Formations -->
-			<div class="grid_16 formations">
+			<!--<div class="grid_16 formations">
 				<h3>Formations</h3>
 				<ul>
 					<li>
@@ -118,17 +118,18 @@ nature de votre travail.</p>
 					</li>
 				</ul>
 			</div>
+-->
 		
 			<!-- Loisirs -->
-			<div class="grid_8 loisirs">
+			<!--<div class="grid_8 loisirs">
 				<h3>Loisirs</h3>
 				<p><strong>Sports :</strong> si vous en pratiquez</p>
 				<p><strong>Association :</strong> si vous êtes membre d'une association</p>
 				<p>D'autres loisirs plus vagues, complétez ici.</p>
 			</div>
-		
+			-->
 			<!-- Contact -->
-			<div class="grid_8 contact">
+			<!--<div class="grid_8 contact">
 				<h3>Contact</h3>
 				<p>Si mon profil vous intéresse, n'hésitez pas à me contacter :</p>
 				<ul>
@@ -140,6 +141,7 @@ nature de votre travail.</p>
                     <li class="form"><a class="toContactform">via le formulaire de contact</a></li>
 				</ul>
 			</div>
+			-->
 	</section>
 
 <!-- Scripts JavaScript -->
