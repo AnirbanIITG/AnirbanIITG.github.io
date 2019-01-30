@@ -27,12 +27,7 @@
 		<div class="container_16">
 				<hgroup>
 					<h1>Anirban Lekharu</h1>
-					<h4 style="line-height:0.8px;color:#3399ff">PHD,Computer Science and Engineering</font></h2>
-					<h4 style="line-height:0.5px;color:#3399ff">Department of Computer Science and Engineering</h4>
-                    			<h4 style="line-height:0.5px;color:#3399ff">Indian Institute of Technology Guwahati</h4>
-                    <h4 style="line-height:0.5px;color:#3399ff">Guwahati-781039, Assam, India</h4>
-                    <h4 style="line-height:0.5px;color:#3399ff">Ph: +91-9707617578</h4>
-                    <h4 style="line-height:0.5px;color:#3399ff">Email: anirban2012[*AT]iitg.ernet.in (please replace [*AT] with @)</h4>
+					<h2>PHD, Dept. of Computer Science and Engineering, IIT Guwahati</h2>
 				</hgroup>
 
 				<figure>
