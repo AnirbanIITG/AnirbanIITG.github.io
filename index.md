@@ -27,7 +27,7 @@
 		<div class="container_16">
 				<hgroup>
 					<h1>Anirban Lekharu</h1>
-					<h2>PHD, Dept. of Computer Science and Engineering, IIT Guwahati</h2>
+					<h4 style="line-height:0.5px;color:#0566A5>PHD, Dept. of Computer Science and Engineering, IIT Guwahati</h4>
 				</hgroup>
 
 				<figure>
