@@ -127,7 +127,7 @@ T.I.(47)/TIFA/2016 dt. August 24, 2016 </h4>
 					</li>
 				</ul>
 			</div>	
-			<!-- Research Experience --> 
+			<!-- Research Experience  
 
 			<div class="grid_16 formations">
 				<h3 style="margin-top: 50px;">Research Experience</h3>
@@ -204,7 +204,7 @@ T.I.(47)/TIFA/2016 dt. August 24, 2016 </h4>
 						</ul>
 					</li>
 				</ul>
-				
+		-->		
 			<!--<div class="grid_8 loisirs">
 				<h3>Loisirs</h3>
 				<p><strong>Sports :</strong> si vous en pratiquez</p>
